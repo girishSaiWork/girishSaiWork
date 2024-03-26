@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Girish Sai</h1>
-<h3 align="center">A passionate frontend developer from India, currently living in Canada</h3>
+<h3 align="center">A passionate AI/ML Engineer, Data Scientist and Data Engineer from India, currently living in Canada</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
